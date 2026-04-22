@@ -1,4 +1,4 @@
-ServiceConnect-Local-Service-Booking-Platform
+
 
 
 * Built a website to book local services like plumbing, electrical work, and painting all in one place instead of calling multiple providers and checking availability one by one
